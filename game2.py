@@ -18,6 +18,7 @@ input("""We have a collection of 2 text adventures right now.
 You can choose between a Penalty shoot-out or an Adventure Game.
 Type "shoot-out" for playing the Penalty shoot-out or type
 "adventure" for the adventure game!\n""")
+#execute adventure or shootout
 if input == adventure:
     print("asdfafg")
     #adventure_8.funktionsname
