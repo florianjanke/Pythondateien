@@ -5,7 +5,7 @@
 x = 17
 lala = "blabla"
 
-#3 Operatoren(Rechen)
+#3 Operatoren(Rechnen)
 x = 12 + 13
 y = x - 5
 hihi = "huhu" + "haha"
@@ -32,7 +32,7 @@ for x in range(0,10): # für x in 0-10, also 11 mal
 
 for x in [1,2,3,4,9,8,7]: # 7 mal durchlaufen, jeweils mit x
     print(x)
-    
+
 # while-Schleifen
 while x < 17:
     print("x ist kleiner als 17")
